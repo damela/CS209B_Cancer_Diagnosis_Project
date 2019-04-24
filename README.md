@@ -1,1 +1,2 @@
-# CS209B_Cancer_Diagnosis_Project
+# CS209B Cancer Diagnosis Project
+Authors: N. Einstein, H. James, E. Lahera, D. Melancon
